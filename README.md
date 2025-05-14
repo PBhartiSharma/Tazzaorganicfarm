@@ -22,7 +22,9 @@ If you want to run the project locally, follow these steps:
    git clone https://github.com/PBhartiSharma/Tazzaorganicfarm.git
 
 
-Technologies Used
-HTML
-CSS
-JavaScript (or other relevant technologies)
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Netlify (for deployment)
