@@ -1,5 +1,3 @@
-# Tazzaorganicfarm
-
 # Tazza Organic Farm
 
 Welcome to **Tazza Organic Farm**! 🌿 We are dedicated to providing fresh and organic farm products. This project is aimed at creating an online platform to showcase and sell our organic products.
