@@ -20,3 +20,9 @@ If you want to run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/PBhartiSharma/Tazzaorganicfarm.git
+
+
+Technologies Used
+HTML
+CSS
+JavaScript (or other relevant technologies)
